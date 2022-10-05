@@ -1,0 +1,7 @@
+/Users/mmd/Desktop/itemsAPI/src/main/java/com/example/itemsAPI/ItemsApiApplication.java
+/Users/mmd/Desktop/itemsAPI/src/main/java/com/example/itemsAPI/service/ItemServiceMySQL.java
+/Users/mmd/Desktop/itemsAPI/src/main/java/com/example/itemsAPI/controller/dto/ItemDto.java
+/Users/mmd/Desktop/itemsAPI/src/main/java/com/example/itemsAPI/repository/entity/Item.java
+/Users/mmd/Desktop/itemsAPI/src/main/java/com/example/itemsAPI/repository/ItemRepository.java
+/Users/mmd/Desktop/itemsAPI/src/main/java/com/example/itemsAPI/controller/ItemController.java
+/Users/mmd/Desktop/itemsAPI/src/main/java/com/example/itemsAPI/service/ItemService.java
